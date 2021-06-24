@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="73b5d4ae-9aca-4c54-ab93-5ea6db75b6bc" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1pn1Bi7zfscJlFJbEuFHEgI1Ewe" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\PhpStorm 2020.3.1\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\layla\Google Drive\Feralbyte\ProjetoDashboard\frontend\simple-login\src\pages" />
+      <recent name="C:\Users\layla\Google Drive\Feralbyte\ProjetoDashboard\frontend\simple-login\src\components" />
+      <recent name="C:\Users\layla\Google Drive\Feralbyte\ProjetoDashboard\frontend\simple-login\src\styles" />
+      <recent name="C:\Users\layla\Google Drive\Feralbyte\ProjetoDashboard\frontend\simple-login\src\assets\images" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="73b5d4ae-9aca-4c54-ab93-5ea6db75b6bc" name="Default Changelist" comment="" />
+      <created>1615803907116</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1615803907116</updated>
+      <workItem from="1615803908389" duration="506000" />
+      <workItem from="1618518809933" duration="3603000" />
+      <workItem from="1618524022172" duration="596000" />
+      <workItem from="1618563442236" duration="3979000" />
+      <workItem from="1618668312595" duration="47000" />
+      <workItem from="1619449565062" duration="658000" />
+      <workItem from="1619469489986" duration="74000" />
+      <workItem from="1620914190197" duration="2274000" />
+      <workItem from="1620917462804" duration="2405000" />
+      <workItem from="1621786514727" duration="129000" />
+      <workItem from="1622214534456" duration="2898000" />
+      <workItem from="1622218172708" duration="9000" />
+      <workItem from="1622369336217" duration="107000" />
+      <workItem from="1622450467864" duration="3654000" />
+      <workItem from="1622490948836" duration="662000" />
+      <workItem from="1622496837068" duration="1642000" />
+      <workItem from="1622556446668" duration="6127000" />
+      <workItem from="1622564347974" duration="33561000" />
+      <workItem from="1622717499148" duration="11551000" />
+      <workItem from="1622815754009" duration="1195000" />
+      <workItem from="1624312409022" duration="5095000" />
+      <workItem from="1624385196583" duration="4897000" />
+      <workItem from="1624541751193" duration="7746000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

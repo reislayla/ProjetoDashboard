@@ -1,0 +1,56 @@
+{
+  "name": "simple-login",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@ant-design/charts": "^0.9.13",
+    "@ant-design/icons": "^4.2.2",
+    "@testing-library/jest-dom": "^4.2.4",
+    "@testing-library/react": "^9.5.0",
+    "@testing-library/user-event": "^7.2.1",
+    "ant-design-pro": "^2.3.2",
+    "antd": "^4.6.2",
+    "axios": "^0.20.0",
+    "cookie-machine": "^0.1.1",
+    "d3-scale": "^3.2.3",
+    "d3-scale-chromatic": "^2.0.0",
+    "js-cookie": "^2.2.1",
+    "logrocket": "^1.0.13",
+    "react": "^16.13.1",
+    "react-color": "^2.19.3",
+    "react-cookie": "^4.0.3",
+    "react-dnd-html5-backend": "^14.0.0",
+    "react-dom": "^16.13.1",
+    "react-expand-animated": "^1.0.2",
+    "react-onclickoutside": "^6.9.0",
+    "react-responsive": "^8.2.0",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "3.4.3",
+    "react-table": "^7.5.2",
+    "reactcss": "^1.2.3",
+    "recharts": "^1.8.5",
+    "reqwest": "^2.0.5",
+    "uuid": "^8.3.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
